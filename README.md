@@ -37,3 +37,6 @@
 | Качество жизни в городах               | [kaggle](https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv)
 | Стоимость жизни в городах              | [kaggle](https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv)
 | Города                                 | [kaggle](https://www.kaggle.com/viswanathanc/world-cities-datasets)
+
+![Index_count](https://raw.githubusercontent.com/team-hack-0819/social-env/main/index_info.png "Index_count")
+
