@@ -19,24 +19,23 @@
 
 ## Индексы и источники
 
-| Индекс                                 | Источник           | Label                  |
-| -------------------------------------- |:------------------:| ----------------------:|
-| Коэффициент человеческого неравенста   | [HDR](http://hdr.undp.org/en/data)
-| Количество населения                   | [HDR](http://hdr.undp.org/en/data)
-| Индекс образования                     | [HDR](http://hdr.undp.org/en/data)
-| Индекс уровня убийств                  | [HDR](http://hdr.undp.org/en/data)
-| Индекс развития человечества           | [HDR](http://hdr.undp.org/en/data)
-| Безработица                            | [HDR](http://hdr.undp.org/en/data)
-| Индекс счастья                         | [World Happiness Report](https://worldhappiness.report/ed/2020/)
-| Экономическая свобода                  | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| Финансовая свобода                     | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| Судебная эффективность                 | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| Легкость ведения бизнеса               | [wiki](https://en.wikipedia.org/wiki/Ease_of_doing_business_index)
-| Индекс инноваций в городах 2019 г.     | [ict](https://ict.moscow/research/globalnyi-reiting-innovatsionnykh-gorodov-mira-2019/)
-| Города                                 | [kaggle](https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv)
-| Качество жизни в городах               | [kaggle](https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv)
-| Стоимость жизни в городах              | [kaggle](https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv)
-| Города                                 | [kaggle](https://www.kaggle.com/viswanathanc/world-cities-datasets)
+| №  | Индекс                                   | Источник           | Label                  |
+| -- | ---------------------------------------- |:------------------:| ----------------------:|
+| 01 | Коэффициент человеческого неравенста     | [HDR](http://hdr.undp.org/en/data)
+| 02 | Количество населения                     | [HDR](http://hdr.undp.org/en/data)
+| 03 | Индекс образования                       | [HDR](http://hdr.undp.org/en/data)
+| 04 | Индекс уровня убийств                    | [HDR](http://hdr.undp.org/en/data)
+| 05 | Индекс развития человеческого потенциала | [HDR](http://hdr.undp.org/en/data)
+| 06 | Индекс уровня безработицы                | [HDR](http://hdr.undp.org/en/data)
+| 07 | Индекс счастья                           | [World Happiness Report](https://worldhappiness.report/ed/2020/)
+| 08 | ВВП на душу населения                    | [World Happiness Report](https://worldhappiness.report/ed/2020/)
+| 09 | Уровень социальной поддержки             | [World Happiness Report](https://worldhappiness.report/ed/2020/)
+| 10 | Ожидаемая продолжительность здоровой     | [World Happiness Report](https://worldhappiness.report/ed/2020/)
+| 11 | Индекс экономической свободы             | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
+| 12 | Индекс финансовой свободы                | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
+| 13 | Индекс свободы ведения бизнеса           | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
+| 14 | Легкость ведения бизнеса                 | [wiki](https://en.wikipedia.org/wiki/Ease_of_doing_business_index)
+| 15 | Глобальный индекс миролюбия              | [wiki](https://en.wikipedia.org/wiki/Global_Peace_Index)
 
 ![Index_count](https://raw.githubusercontent.com/team-hack-0819/social-env/main/index_info.png "Index_count")
 
