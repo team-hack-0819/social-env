@@ -23,3 +23,5 @@
 | 13 | Индекс свободы ведения бизнеса           | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year) | index_business_freedom.csv
 | 14 | Легкость ведения бизнеса                 | [wiki](https://en.wikipedia.org/wiki/Ease_of_doing_business_index) | index_wiki_doing_business.csv
 | 15 | Глобальный индекс миролюбия              | [wiki](https://en.wikipedia.org/wiki/Global_Peace_Index) | index_wiki_global_peace.csv
+
+![Visual gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual.gif)
