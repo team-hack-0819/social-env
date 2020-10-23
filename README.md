@@ -19,23 +19,23 @@
 
 ## Индексы и источники
 
-| №  | Индекс                                   | Источник           | Label                  |
+| №  | Индекс                                   | Источник           | CSV                  |
 | -- | ---------------------------------------- |:------------------:| ----------------------:|
-| 01 | Коэффициент человеческого неравенста     | [HDR](http://hdr.undp.org/en/data)
-| 02 | Количество населения                     | [HDR](http://hdr.undp.org/en/data)
-| 03 | Индекс образования                       | [HDR](http://hdr.undp.org/en/data)
-| 04 | Индекс уровня убийств                    | [HDR](http://hdr.undp.org/en/data)
-| 05 | Индекс развития человеческого потенциала | [HDR](http://hdr.undp.org/en/data)
-| 06 | Индекс уровня безработицы                | [HDR](http://hdr.undp.org/en/data)
-| 07 | Индекс счастья                           | [World Happiness Report](https://worldhappiness.report/ed/2020/)
-| 08 | ВВП на душу населения                    | [World Happiness Report](https://worldhappiness.report/ed/2020/)
-| 09 | Уровень социальной поддержки             | [World Happiness Report](https://worldhappiness.report/ed/2020/)
-| 10 | Ожидаемая продолжительность здоровой     | [World Happiness Report](https://worldhappiness.report/ed/2020/)
-| 11 | Индекс экономической свободы             | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| 12 | Индекс финансовой свободы                | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| 13 | Индекс свободы ведения бизнеса           | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year)
-| 14 | Легкость ведения бизнеса                 | [wiki](https://en.wikipedia.org/wiki/Ease_of_doing_business_index)
-| 15 | Глобальный индекс миролюбия              | [wiki](https://en.wikipedia.org/wiki/Global_Peace_Index)
+| 01 | Коэффициент человеческого неравенста     | [HDR](http://hdr.undp.org/en/data) | CoefficientofHumanInequality.csv
+| 02 | Количество населения                     | [HDR](http://hdr.undp.org/en/data) | Populationtotal.csv
+| 03 | Индекс образования                       | [HDR](http://hdr.undp.org/en/data) | EducationIndex.csv
+| 04 | Индекс уровня убийств                    | [HDR](http://hdr.undp.org/en/data) | Homiciderate.csv
+| 05 | Индекс развития человеческого потенциала | [HDR](http://hdr.undp.org/en/data) | HumanDevelopmentIndex
+| 06 | Индекс уровня безработицы                | [HDR](http://hdr.undp.org/en/data) | Unemploymenttotal.csv
+| 07 | Индекс счастья                           | [World Happiness Report](https://worldhappiness.report/ed/2020/) | index_life_ladder.csv
+| 08 | ВВП на душу населения                    | [World Happiness Report](https://worldhappiness.report/ed/2020/) | index_gdp_per_capita.csv
+| 09 | Уровень социальной поддержки             | [World Happiness Report](https://worldhappiness.report/ed/2020/) | index_social_support.csv
+| 10 | Ожидаемая продолжительность здоровой     | [World Happiness Report](https://worldhappiness.report/ed/2020/) | index_healthy_life.csv
+| 11 | Индекс экономической свободы             | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year) | index_economic_freedom.csv
+| 12 | Индекс финансовой свободы                | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year) | index_financial_freedom.csv
+| 13 | Индекс свободы ведения бизнеса           | [heritage.org](https://www.heritage.org/index/explore?view=by-region-country-year) | index_business_freedom.csv
+| 14 | Легкость ведения бизнеса                 | [wiki](https://en.wikipedia.org/wiki/Ease_of_doing_business_index) | index_wiki_doing_business.csv
+| 15 | Глобальный индекс миролюбия              | [wiki](https://en.wikipedia.org/wiki/Global_Peace_Index) | index_wiki_global_peace.csv
 
 ![Index_count](https://raw.githubusercontent.com/team-hack-0819/social-env/main/index_info.png "Index_count")
 
