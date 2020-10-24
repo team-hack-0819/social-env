@@ -28,6 +28,4 @@
 
 ![Visual_1 gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual.gif)
 ![Visual_2 gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual_01.gif)
-![Visual_3 gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual_02.gif)
-![Visual_4 gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual_03.gif)
 ![Visual_5 gif](https://raw.githubusercontent.com/team-hack-0819/social-env/main/visual_04.gif)
